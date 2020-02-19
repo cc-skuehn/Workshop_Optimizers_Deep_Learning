@@ -10,6 +10,9 @@ https://www.slideshare.net/StefanKhn4/the-machinery-behind-deep-learning
 ### Paper on Super-Convergence
 https://arxiv.org/pdf/1708.07120.pdf
 
+### Paper on Cyclical Learning Rates (-> Super-Convergence)
+https://arxiv.org/abs/1506.01186
+
 ### Paper on Lookahead
 https://arxiv.org/abs/1907.08610
 
